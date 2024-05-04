@@ -14,8 +14,8 @@ Chronicle is a real-time collaborative note-taking application designed to strea
 
 ## Technologies Used
 
-- **Backend**: Node.js, Express.js, Socket.io, MongoDB
-- **Frontend**: React.js, Socket.io-client
+- **Backend**: .net core, Node.js, NestJs, SignalR, MongoDB
+- **Frontend**: React.js, SignalR-client
 - **Authentication**: JSON Web Tokens (JWT)
 - **Styling**: CSS (with optional frameworks like Bootstrap or Material UI)
 - **Deployment**: Heroku, Netlify (or other preferred hosting platforms)
@@ -45,7 +45,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 ## License
 
-This project is licensed under the [MIT License](link_to_license).
+This project is licensed under the [MIT License](LICENCE.txt).
 
 ---
 
