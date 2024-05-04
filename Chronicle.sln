@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chronicle.Api", "Chronicle.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chronicle.Domain", "Chronicle.Domain\Chronicle.Domain.csproj", "{3980C5E5-436B-4141-AD4B-5A91E030F913}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chronicle.Application", "Chronicle.Application\Chronicle.Application.csproj", "{0F45D750-32D5-43EB-A99B-80A86B641A5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{3980C5E5-436B-4141-AD4B-5A91E030F913}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3980C5E5-436B-4141-AD4B-5A91E030F913}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3980C5E5-436B-4141-AD4B-5A91E030F913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F45D750-32D5-43EB-A99B-80A86B641A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F45D750-32D5-43EB-A99B-80A86B641A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F45D750-32D5-43EB-A99B-80A86B641A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F45D750-32D5-43EB-A99B-80A86B641A5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
